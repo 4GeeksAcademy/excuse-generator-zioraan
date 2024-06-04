@@ -1,1 +1,14 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: rgb(17, 16, 16);
+}
+h1 {
+  justify-content: center;
+  margin: 500px auto 0 auto;
+  width: 80%;
+  color: #dfdffd;
+  padding-bottom: 2rem;
+}
+div {
+  display: flex;
+}
